@@ -1,0 +1,16 @@
+<playerConfig version="1.0">
+	<playerBarrackLimitConfig>
+		<playerBarrackLimit barrackResID="111"/>
+		<playerBarrackLimit barrackResID="112"/>
+		<playerBarrackLimit barrackResID="121"/>
+		<playerBarrackLimit barrackResID="122"/>
+	</playerBarrackLimitConfig>
+	<playerTowerLimitConfig>
+	</playerTowerLimitConfig>
+	<playerScoreConfig>
+		<player time="120" blood="30" score="3"/>
+		<player time="140" blood="20" score="2"/>
+	</playerScoreConfig>
+	<playerCastleBlood value="30"/>
+	<money value="300"/>
+</playerConfig>

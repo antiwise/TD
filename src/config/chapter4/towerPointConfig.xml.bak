@@ -1,0 +1,10 @@
+<towerPointConfig version="1.0">
+	<towerPoint id="1" x="518" y="440" camp="1" skinUrl="towerPoint.swf" skinFrame="snow"/>
+	<towerPoint id="2" x="567" y="296" camp="1" skinUrl="towerPoint.swf" skinFrame="snow"/>
+	<towerPoint id="3" x="515" y="226" camp="1" skinUrl="towerPoint.swf" skinFrame="snow"/>
+	
+	<towerPoint id="4" x="833" y="296" camp="2" skinUrl="towerPoint.swf" skinFrame="snow"/>
+	<towerPoint id="5" x="787" y="434" camp="2" skinUrl="towerPoint.swf" skinFrame="snow"/>
+
+
+</towerPointConfig>

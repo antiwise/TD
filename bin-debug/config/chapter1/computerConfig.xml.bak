@@ -1,0 +1,6 @@
+<computerConfig version="1.0">
+	<computerBarrackAIConfig> 
+		<computerBarrackAI barrackPointID="3" barrackResID="211" buildTime="7" />
+	</computerBarrackAIConfig>
+	<computerCastleBlood value="8"/>
+</computerConfig>

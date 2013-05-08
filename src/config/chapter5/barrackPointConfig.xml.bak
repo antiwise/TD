@@ -1,0 +1,23 @@
+<barracksPointConfig version="1.0">
+	<barracksPoint id="1" x="104" y="439" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="2" x="187" y="439" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="3" x="230" y="322" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="4" x="330" y="328" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="5" x="429" y="197" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="6" x="244" y="199" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="7" x="350" y="398" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="8" x="350" y="470" camp="1" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+
+	<barracksPoint id="9" x="1296" y="439" camp="2" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="10" x="1213" y="439" camp="2" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="11" x="1170" y="322" camp="2" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="12" x="1070" y="328" camp="2" lineIDArr="1" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="13" x="971" y="197" camp="2" lineIDArr="1,1,1,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="14" x="1156" y="199" camp="2" lineIDArr="1,1,1,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="15" x="1050" y="398" camp="2" lineIDArr="1,1,1,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="16" x="1050" y="470" camp="2" lineIDArr="1,1,1,2,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="17" x="933" y="240" camp="2" lineIDArr="1,1,1,2,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="18" x="1265" y="197" camp="2" lineIDArr="1,1,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="19" x="1333" y="178" camp="2" lineIDArr="1,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+	<barracksPoint id="20" x="1318" y="228" camp="2" lineIDArr="1,2" skinUrl="barracksPoint.swf" skinFrame="wasteland"/>
+</barracksPointConfig>

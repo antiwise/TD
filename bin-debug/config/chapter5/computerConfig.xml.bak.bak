@@ -1,0 +1,13 @@
+<computerConfig version="1.0">
+	<computerBarracksAIConfig> 
+		<computerBarracksAI barracksPointID="9" barracksResID="211" buildTime="10" />
+		<computerBarracksAI barracksPointID="10" barracksResID="221" buildTime="20" />
+		<computerBarracksAI barracksPointID="11" barracksResID="232" buildTime="50" />
+		<computerBarracksAI barracksPointID="12" barracksResID="242" buildTime="70" />
+		<computerBarracksAI barracksPointID="13" barracksResID="252" buildTime="90" />
+		<computerBarracksAI barracksPointID="14" barracksResID="223" buildTime="140" />
+		<computerBarracksAI barracksPointID="15" barracksResID="233" buildTime="160" />
+		<computerBarracksAI barracksPointID="16" barracksResID="243" buildTime="270" />
+	</computerBarracksAIConfig>
+	<computerCastleBlood value="100"/>
+</computerConfig>

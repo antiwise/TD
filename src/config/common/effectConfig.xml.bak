@@ -1,0 +1,37 @@
+<effectConfig version="1.0">
+	<effect name="Prayer of Healing" resID="111" type="1" attackType="0" value="200" area="0" skinUrl="effect110.swf"/>
+	<effect name="Prayer of Healing" resID="112" type="1" attackType="0" value="250" area="0" skinUrl="effect110.swf"/>
+	<effect name="Prayer of Healing" resID="113" type="1" attackType="0" value="300" area="0" skinUrl="effect110.swf"/>
+	<effect name="Prayer of Healing" resID="114" type="1" attackType="0" value="350" area="0" skinUrl="effect110.swf"/>
+	<effect name="Prayer of Healing" resID="115" type="1" attackType="0" value="350" area="0" skinUrl="effect110.swf"/>
+
+	<effect name="Lightning Bolt" resID="121" type="2" attackType="3" value="120" area="0" skinUrl="effect120.swf"/>
+	<effect name="Lightning Bolt" resID="122" type="2" attackType="3" value="200" area="0" skinUrl="effect120.swf"/>
+	<effect name="Lightning Bolt" resID="123" type="2" attackType="3" value="300" area="0" skinUrl="effect120.swf"/>
+	<effect name="Lightning Bolt" resID="124" type="2" attackType="3" value="420" area="0" skinUrl="effect120.swf"/>
+	<effect name="Lightning Bolt" resID="125" type="2" attackType="3" value="650" area="0" skinUrl="effect120.swf"/>
+
+	<effect name="Rain of Fire" resID="131" type="3" attackType="3" value="100" area="55" skinUrl="effect130.swf"/>
+	<effect name="Rain of Fire" resID="132" type="3" attackType="3" value="160" area="65" skinUrl="effect130.swf"/>
+	<effect name="Rain of Fire" resID="133" type="3" attackType="3" value="240" area="70" skinUrl="effect130.swf"/>
+	<effect name="Rain of Fire" resID="134" type="3" attackType="3" value="300" area="75" skinUrl="effect130.swf"/>
+	<effect name="Rain of Fire" resID="135" type="3" attackType="3" value="350" area="75" skinUrl="effect130.swf"/>
+
+	<effect name="Scorch" resID="211" type="4" attackType="3" value="100" area="0" skinUrl="effect210.swf"/>
+	<effect name="Scorch" resID="212" type="4" attackType="3" value="150" area="0" skinUrl="effect210.swf"/>
+	<effect name="Scorch" resID="213" type="4" attackType="3" value="200" area="0" skinUrl="effect210.swf"/>
+	<effect name="Scorch" resID="214" type="4" attackType="3" value="250" area="0" skinUrl="effect210.swf"/>
+	<effect name="Scorch" resID="215" type="4" attackType="3" value="350" area="0" skinUrl="effect210.swf"/>
+
+	<effect name="Cone of Cold" resID="221" type="5" attackType="3" value="100" area="40" skinUrl="effect220.swf"/>
+	<effect name="Cone of Cold" resID="222" type="5" attackType="3" value="150" area="50" skinUrl="effect220.swf"/>
+	<effect name="Cone of Cold" resID="223" type="5" attackType="3" value="200" area="55" skinUrl="effect220.swf"/>
+	<effect name="Cone of Cold" resID="224" type="5" attackType="3" value="250" area="60" skinUrl="effect220.swf"/>
+	<effect name="Cone of Cold" resID="225" type="5" attackType="3" value="300" area="60" skinUrl="effect220.swf"/>
+
+	<effect name="Death Ray" resID="231" type="6" attackType="3" value="0" area="0" skinUrl="effect230.swf"/>
+	<effect name="Death Ray" resID="232" type="6" attackType="3" value="0" area="0" skinUrl="effect230.swf"/>
+	<effect name="Death Ray" resID="233" type="6" attackType="3" value="0" area="0" skinUrl="effect230.swf"/>
+	<effect name="Death Ray" resID="234" type="6" attackType="3" value="0" area="0" skinUrl="effect230.swf"/>
+	<effect name="Death Ray" resID="235" type="6" attackType="3" value="0" area="0" skinUrl="effect230.swf"/>
+</effectConfig>

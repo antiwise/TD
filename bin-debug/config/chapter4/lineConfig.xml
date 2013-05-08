@@ -1,0 +1,61 @@
+<lineConfig version="1.0">
+	<line id="0">
+		<point x="0" y="453"/>
+		<point x="138" y="446"/>
+		<point x="222" y="390"/>
+		<point x="430" y="392"/>
+		<point x="503" y="352"/>
+		<point x="477" y="280"/>
+		<point x="345" y="264"/>
+		<point x="308" y="211"/>
+		<point x="362" y="154"/>
+		<point x="1038" y="154"/>
+		<point x="1092" y="211"/>
+		<point x="1046" y="264"/>
+		<point x="923" y="280"/>
+		<point x="897" y="352"/>
+		<point x="970" y="392"/>
+		<point x="1178" y="390"/>
+		<point x="1262" y="446"/>
+		<point x="1400" y="453"/>
+	</line>
+	<line id="1">
+		<point x="0" y="453"/>
+		<point x="138" y="446"/>
+		<point x="222" y="390"/>
+		<point x="430" y="392"/>
+		<point x="476" y="476"/>
+		<point x="924" y="476"/>
+		<point x="970" y="392"/>
+		<point x="1178" y="390"/>
+		<point x="1262" y="446"/>
+		<point x="1400" y="453"/>
+	</line>
+	<line id="2">
+		<point x="0" y="453"/>
+		<point x="138" y="446"/>
+		<point x="222" y="390"/>
+		<point x="430" y="392"/>
+		<point x="503" y="352"/>
+		<point x="477" y="280"/>
+		<point x="345" y="264"/>
+		<point x="308" y="211"/>
+		<point x="362" y="154"/>
+		<point x="1038" y="154"/>
+		<point x="1092" y="211"/>
+		<point x="1195" y="206"/>
+	</line>
+	<line id="3">
+		<point x="0" y="453"/>
+		<point x="138" y="446"/>
+		<point x="222" y="390"/>
+		<point x="430" y="392"/>
+		<point x="503" y="352"/>
+		<point x="477" y="280"/>
+		<point x="345" y="264"/>
+		<point x="308" y="211"/>
+		<point x="362" y="154"/>
+		<point x="405" y="106"/>
+		<point x="366" y="80"/>
+	</line>
+</lineConfig>

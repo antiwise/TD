@@ -1,0 +1,25 @@
+<barracksPointConfig version="1.0">
+	<barracksPoint id="1" x="110" y="410" camp="1" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="2" x="165" y="510" camp="1" lineIDArr="1,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="3" x="269" y="461" camp="1" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="4" x="352" y="461" camp="1" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="5" x="278" y="344" camp="1" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="6" x="383" y="344" camp="1" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<!--
+	<barracksPoint id="7" x="518" y="440" camp="1" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="8" x="567" y="296" camp="1" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	-->
+	<barracksPoint id="9" x="1290" y="410" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="10" x="1330" y="525" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="11" x="1131" y="461" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="12" x="1048" y="461" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="13" x="1122" y="344" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="14" x="1017" y="344" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="15" x="882" y="440" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<!--
+	<barracksPoint id="16" x="833" y="296" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="17" x="777" y="354" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="18" x="992" y="224" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	<barracksPoint id="19" x="911" y="224" camp="2" lineIDArr="0,1" skinUrl="barracksPoint.swf" skinFrame="snow"/>
+	-->
+</barracksPointConfig>

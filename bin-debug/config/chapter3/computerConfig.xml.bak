@@ -1,0 +1,14 @@
+<computerConfig version="1.0">
+	<computerBarrackAIConfig> 
+		<computerBarrackAI barrackPointID="5" barrackResID="222" buildTime="5" />
+		<computerBarrackAI barrackPointID="6" barrackResID="242" buildTime="15" />
+		<computerBarrackAI barrackPointID="7" barrackResID="243" buildTime="20" />
+		<computerBarrackAI barrackPointID="8" barrackResID="243" buildTime="10" />
+	</computerBarrackAIConfig>
+	<computerBossAIConfig>
+		<bossAI monsterResID="902" showTime="55" lineID="2"/>
+	</computerBossAIConfig>
+	<computerTowerAIConfig> 
+	</computerTowerAIConfig>
+	<computerCastleBlood value="50"/>
+</computerConfig>

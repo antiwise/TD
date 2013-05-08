@@ -1,0 +1,17 @@
+<barrackPointConfig version="1.0">
+	<barrackPoint id="1" x="110" y="410" camp="1" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="2" x="165" y="510" camp="1" lineIDArr="1,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="3" x="269" y="461" camp="1" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="4" x="352" y="461" camp="1" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="5" x="278" y="344" camp="1" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="6" x="383" y="344" camp="1" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+
+	<barrackPoint id="7" x="1290" y="410" camp="2" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="8" x="1330" y="525" camp="2" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="9" x="1131" y="461" camp="2" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="10" x="1048" y="461" camp="2" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="11" x="1122" y="344" camp="2" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="12" x="1017" y="344" camp="2" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+	<barrackPoint id="13" x="882" y="440" camp="2" lineIDArr="0,1" skinUrl="barrackPoint.swf" skinFrame="snow"/>
+
+</barrackPointConfig>

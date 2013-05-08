@@ -1,0 +1,62 @@
+<barrackConfig version="1.0">
+	<barrack name="Knight Barrack" resID="111" monsterResID="111" level="1" height="40" trainingTime="7" levelUp="112" camp="1" buildTime="2" money="100" skinUrl="barrack110.swf"/>
+	<barrack name="Knight Barrack" resID="112" monsterResID="112" level="2" height="40" trainingTime="6" levelUp="113" camp="1" buildTime="2" money="200" skinUrl="barrack110.swf"/>
+	<barrack name="Knight Barrack" resID="113" monsterResID="113" level="3" height="40" trainingTime="5" levelUp="114" camp="1" buildTime="2" money="300" skinUrl="barrack110.swf"/>
+	<barrack name="Knight Barrack" resID="114" monsterResID="114" level="4" height="40" trainingTime="4" levelUp="115" camp="1" buildTime="2" money="400" skinUrl="barrack110.swf"/>
+	<barrack name="Knight Barrack" resID="115" monsterResID="115" level="5" height="40" trainingTime="4" levelUp="0" camp="1" buildTime="2" money="500" skinUrl="barrack110.swf"/>
+
+	<barrack name="Ancient Totem" resID="121" monsterResID="121" level="1" height="40" trainingTime="10" levelUp="122" camp="1" buildTime="2" money="200" skinUrl="barrack120.swf"/>
+	<barrack name="Ancient Totem" resID="122" monsterResID="122" level="2" height="40" trainingTime="11" levelUp="123" camp="1" buildTime="2" money="400" skinUrl="barrack120.swf"/>
+	<barrack name="Ancient Totem" resID="123" monsterResID="123" level="3" height="40" trainingTime="12" levelUp="124" camp="1" buildTime="2" money="800" skinUrl="barrack120.swf"/>
+	<barrack name="Ancient Totem" resID="124" monsterResID="124" level="4" height="40" trainingTime="13" levelUp="125" camp="1" buildTime="2" money="1000" skinUrl="barrack120.swf"/>
+	<barrack name="Ancient Totem" resID="125" monsterResID="125" level="5" height="40" trainingTime="13" levelUp="0" camp="1" buildTime="2" money="1200" skinUrl="barrack120.swf"/>
+
+	<barrack name="Sanctum" resID="131" monsterResID="131" level="1" height="40" trainingTime="10" levelUp="132" camp="1" buildTime="2" money="300" skinUrl="barrack130.swf"/>
+	<barrack name="Sanctum" resID="132" monsterResID="132" level="2" height="40" trainingTime="9" levelUp="133" camp="1" buildTime="2" money="500" skinUrl="barrack130.swf"/>
+	<barrack name="Sanctum" resID="133" monsterResID="133" level="3" height="40" trainingTime="9" levelUp="134" camp="1" buildTime="2" money="1000" skinUrl="barrack130.swf"/>
+	<barrack name="Sanctum" resID="134" monsterResID="134" level="4" height="40" trainingTime="8" levelUp="135" camp="1" buildTime="2" money="1400" skinUrl="barrack130.swf"/>
+	<barrack name="Sanctum" resID="135" monsterResID="135" level="5" height="40" trainingTime="8" levelUp="0" camp="1" buildTime="2" money="1600" skinUrl="barrack130.swf"/>
+
+	<barrack name="Radar Institute" resID="141" monsterResID="141" level="1" height="40" trainingTime="9" levelUp="142" camp="1" buildTime="2" money="400" skinUrl="barrack140.swf"/>
+	<barrack name="Radar Institute" resID="142" monsterResID="142" level="2" height="40" trainingTime="8" levelUp="143" camp="1" buildTime="2" money="700" skinUrl="barrack140.swf"/>
+	<barrack name="Radar Institute" resID="143" monsterResID="143" level="3" height="40" trainingTime="8" levelUp="144" camp="1" buildTime="2" money="1200" skinUrl="barrack140.swf"/>
+	<barrack name="Radar Institute" resID="144" monsterResID="144" level="4" height="40" trainingTime="8" levelUp="145" camp="1" buildTime="2" money="1800" skinUrl="barrack140.swf"/>
+	<barrack name="Radar Institute" resID="145" monsterResID="145" level="5" height="40" trainingTime="7" levelUp="0" camp="1" buildTime="2" money="2200" skinUrl="barrack140.swf"/>
+
+	<barrack name="Hunter's Hall" resID="151" monsterResID="151" level="1" height="40" trainingTime="7" levelUp="152" camp="1" buildTime="2" money="150" skinUrl="barrack150.swf"/>
+	<barrack name="Hunter's Hall" resID="152" monsterResID="152" level="2" height="40" trainingTime="6" levelUp="153" camp="1" buildTime="2" money="300" skinUrl="barrack150.swf"/>
+	<barrack name="Hunter's Hall" resID="153" monsterResID="153" level="3" height="40" trainingTime="5" levelUp="154" camp="1" buildTime="2" money="500" skinUrl="barrack150.swf"/>
+	<barrack name="Hunter's Hall" resID="154" monsterResID="154" level="4" height="40" trainingTime="5" levelUp="155" camp="1" buildTime="2" money="700" skinUrl="barrack150.swf"/>
+	<barrack name="Hunter's Hall" resID="155" monsterResID="155" level="5" height="40" trainingTime="5" levelUp="0" camp="1" buildTime="2" money="800" skinUrl="barrack150.swf"/>
+
+	<barrack name="Troll Hut" resID="211" monsterResID="211" level="1" height="40" trainingTime="6" levelUp="212" camp="2" buildTime="0" money="0" skinUrl="barrack210.swf"/>
+	<barrack name="Troll Hut" resID="212" monsterResID="212" level="2" height="40" trainingTime="5" levelUp="213" camp="2" buildTime="0" money="0" skinUrl="barrack210.swf"/>
+	<barrack name="Troll Hut" resID="213" monsterResID="213" level="3" height="40" trainingTime="4" levelUp="214" camp="2" buildTime="0" money="0" skinUrl="barrack210.swf"/>
+	<barrack name="Troll Hut" resID="214" monsterResID="214" level="4" height="40" trainingTime="4" levelUp="215" camp="2" buildTime="0" money="0" skinUrl="barrack210.swf"/>
+	<barrack name="Troll Hut" resID="215" monsterResID="215" level="5" height="40" trainingTime="4" levelUp="0" camp="2" buildTime="0" money="0" skinUrl="barrack210.swf"/>
+
+	<barrack name="Magma Totem" resID="221" monsterResID="221" level="1" height="40" trainingTime="10" levelUp="222" camp="2" buildTime="0" money="0" skinUrl="barrack220.swf"/>
+	<barrack name="Magma Totem" resID="222" monsterResID="222" level="2" height="40" trainingTime="10" levelUp="223" camp="2" buildTime="0" money="0" skinUrl="barrack220.swf"/>
+	<barrack name="Magma Totem" resID="223" monsterResID="223" level="3" height="40" trainingTime="11" levelUp="224" camp="2" buildTime="0" money="0" skinUrl="barrack220.swf"/>
+	<barrack name="Magma Totem" resID="224" monsterResID="224" level="4" height="40" trainingTime="11" levelUp="225" camp="2" buildTime="0" money="0" skinUrl="barrack220.swf"/>
+	<barrack name="Magma Totem" resID="225" monsterResID="225" level="5" height="40" trainingTime="12" levelUp="0" camp="2" buildTime="0" money="0" skinUrl="barrack220.swf"/>
+
+	<barrack name="Altar of Damned" resID="231" monsterResID="231" level="1" height="40" trainingTime="10" levelUp="232" camp="2" buildTime="0" money="0" skinUrl="barrack230.swf"/>
+	<barrack name="Altar of Damned" resID="232" monsterResID="232" level="2" height="40" trainingTime="9" levelUp="233" camp="2" buildTime="0" money="0" skinUrl="barrack230.swf"/>
+	<barrack name="Altar of Damned" resID="233" monsterResID="233" level="3" height="40" trainingTime="8" levelUp="234" camp="2" buildTime="0" money="0" skinUrl="barrack230.swf"/>
+	<barrack name="Altar of Damned" resID="234" monsterResID="234" level="4" height="40" trainingTime="8" levelUp="235" camp="2" buildTime="0" money="0" skinUrl="barrack230.swf"/>
+	<barrack name="Altar of Damned" resID="235" monsterResID="235" level="5" height="40" trainingTime="8" levelUp="0" camp="2" buildTime="0" money="0" skinUrl="barrack230.swf"/>
+
+	<barrack name="Chaos Nest" resID="241" monsterResID="241" level="1" height="40" trainingTime="9" levelUp="242" camp="2" buildTime="0" money="0" skinUrl="barrack240.swf"/>
+	<barrack name="Chaos Nest" resID="242" monsterResID="242" level="2" height="40" trainingTime="8" levelUp="243" camp="2" buildTime="0" money="0" skinUrl="barrack240.swf"/>
+	<barrack name="Chaos Nest" resID="243" monsterResID="243" level="3" height="40" trainingTime="8" levelUp="244" camp="2" buildTime="0" money="0" skinUrl="barrack240.swf"/>
+	<barrack name="Chaos Nest" resID="244" monsterResID="244" level="4" height="40" trainingTime="8" levelUp="245" camp="2" buildTime="0" money="0" skinUrl="barrack240.swf"/>
+	<barrack name="Chaos Nest" resID="245" monsterResID="245" level="5" height="40" trainingTime="7" levelUp="0" camp="2" buildTime="0" money="0" skinUrl="barrack240.swf"/>
+
+	<barrack name="House of Shaders" resID="251" monsterResID="251" level="1" height="40" trainingTime="7" levelUp="252" camp="2" buildTime="0" money="0" skinUrl="barrack250.swf"/>
+	<barrack name="House of Shaders" resID="252" monsterResID="252" level="2" height="40" trainingTime="6" levelUp="253" camp="2" buildTime="0" money="0" skinUrl="barrack250.swf"/>
+	<barrack name="House of Shaders" resID="253" monsterResID="253" level="3" height="40" trainingTime="5" levelUp="254" camp="2" buildTime="0" money="0" skinUrl="barrack250.swf"/>
+	<barrack name="House of Shaders" resID="254" monsterResID="254" level="4" height="40" trainingTime="5" levelUp="255" camp="2" buildTime="0" money="0" skinUrl="barrack250.swf"/>
+	<barrack name="House of Shaders" resID="255" monsterResID="255" level="5" height="40" trainingTime="5" levelUp="0" camp="2" buildTime="0" money="0" skinUrl="barrack250.swf"/>
+
+</barrackConfig>

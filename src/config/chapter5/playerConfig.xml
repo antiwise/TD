@@ -1,0 +1,52 @@
+<playerConfig version="1.0">
+	<playerBarrackLimitConfig>
+		<playerBarrackLimit barrackResID="111"/>
+		<playerBarrackLimit barrackResID="112"/>
+		<playerBarrackLimit barrackResID="113"/>
+		<playerBarrackLimit barrackResID="114"/>
+		<playerBarrackLimit barrackResID="115"/>
+		<playerBarrackLimit barrackResID="121"/>
+		<playerBarrackLimit barrackResID="122"/>
+		<playerBarrackLimit barrackResID="123"/>
+		<playerBarrackLimit barrackResID="124"/>
+		<playerBarrackLimit barrackResID="125"/>
+		<playerBarrackLimit barrackResID="131"/>
+		<playerBarrackLimit barrackResID="132"/>
+		<playerBarrackLimit barrackResID="133"/>
+		<playerBarrackLimit barrackResID="134"/>
+		<playerBarrackLimit barrackResID="135"/>
+		<playerBarrackLimit barrackResID="141"/>
+		<playerBarrackLimit barrackResID="142"/>
+		<playerBarrackLimit barrackResID="143"/>
+		<playerBarrackLimit barrackResID="144"/>
+		<playerBarrackLimit barrackResID="145"/>
+		<playerBarrackLimit barrackResID="151"/>
+		<playerBarrackLimit barrackResID="152"/>
+		<playerBarrackLimit barrackResID="153"/>
+		<playerBarrackLimit barrackResID="154"/>
+		<playerBarrackLimit barrackResID="155"/>
+	</playerBarrackLimitConfig>
+	<playerTowerLimitConfig>
+		<playerTowerLimit towerResID="111"/>
+		<playerTowerLimit towerResID="112"/>
+		<playerTowerLimit towerResID="113"/>
+		<playerTowerLimit towerResID="114"/>
+		<playerTowerLimit towerResID="115"/>
+		<playerTowerLimit towerResID="121"/>
+		<playerTowerLimit towerResID="122"/>
+		<playerTowerLimit towerResID="123"/>
+		<playerTowerLimit towerResID="124"/>
+		<playerTowerLimit towerResID="125"/>
+		<playerTowerLimit towerResID="131"/>
+		<playerTowerLimit towerResID="132"/>
+		<playerTowerLimit towerResID="133"/>
+		<playerTowerLimit towerResID="134"/>
+		<playerTowerLimit towerResID="135"/>
+	</playerTowerLimitConfig>
+	<playerScoreConfig>
+		<player time="680" blood="150" score="3"/>
+		<player time="900" blood="100" score="2"/>
+	</playerScoreConfig>
+	<playerCastleBlood value="150"/>
+	<money value="8000"/>
+</playerConfig>

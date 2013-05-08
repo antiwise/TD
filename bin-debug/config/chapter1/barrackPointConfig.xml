@@ -1,0 +1,6 @@
+<barrackPointConfig version="1.0">
+	<barrackPoint id="1" x="480" y="340" camp="1" lineIDArr="0" skinUrl="barrackPoint.swf" skinFrame="forest"/>
+	<barrackPoint id="2" x="593" y="447" camp="1" lineIDArr="0" skinUrl="barrackPoint.swf" skinFrame="forest"/>
+	
+	<barrackPoint id="3" x="236" y="112" camp="2" lineIDArr="0" skinUrl="barrackPoint.swf" skinFrame="forest"/>
+</barrackPointConfig>

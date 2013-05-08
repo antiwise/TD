@@ -1,0 +1,62 @@
+<computerConfig version="1.0">
+	<computerBarrackAIConfig> 
+
+
+		<computerBarrackAI barrackPointID="9" barrackResID="212" buildTime="5" />
+		<computerBarrackAI barrackPointID="10" barrackResID="252" buildTime="10" />
+		<computerBarrackAI barrackPointID="11" barrackResID="222" buildTime="20" />
+		<computerBarrackAI barrackPointID="12" barrackResID="231" buildTime="30" />
+		<computerBarrackAI barrackPointID="13" barrackResID="242" buildTime="60" />
+		<computerBarrackAI barrackPointID="14" barrackResID="223" buildTime="80" />
+		<computerBarrackAI barrackPointID="15" barrackResID="233" buildTime="110" />
+		<computerBarrackAI barrackPointID="16" barrackResID="244" buildTime="130" />
+		<computerBarrackAI barrackPointID="17" barrackResID="213" buildTime="220" />
+		<computerBarrackAI barrackPointID="18" barrackResID="234" buildTime="270" />
+		<computerBarrackAI barrackPointID="19" barrackResID="244" buildTime="320" />
+		<computerBarrackAI barrackPointID="20" barrackResID="255" buildTime="380" />
+
+	</computerBarrackAIConfig>
+	<computerBossAIConfig>
+	
+		<bossAI monsterResID="901" showTime="180" lineID="3"/>
+		
+	</computerBossAIConfig>
+	<computerCreepAIConfig>
+
+		<creepAI monsterResID="802" showTime="40" intervalTime="20" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="41.5" intervalTime="20" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="42" intervalTime="20" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="42.5" intervalTime="20" num="1" lineID="4"/>
+		
+		<creepAI monsterResID="802" showTime="154" intervalTime="55" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="154.5" intervalTime="55" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="155" intervalTime="55" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="155.5" intervalTime="55" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="156" intervalTime="55" num="1" lineID="4"/>
+		<creepAI monsterResID="802" showTime="156.5" intervalTime="55" num="1" lineID="4"/>
+		
+		<creepAI monsterResID="802" showTime="120" intervalTime="40" num="1" lineID="0"/>
+		<creepAI monsterResID="802" showTime="120.5" intervalTime="40" num="1" lineID="0"/>
+		<creepAI monsterResID="802" showTime="121" intervalTime="40" num="1" lineID="0"/>
+		<creepAI monsterResID="803" showTime="121.5" intervalTime="40" num="1" lineID="0"/>
+		<creepAI monsterResID="803" showTime="122" intervalTime="40" num="1" lineID="0"/>
+		<creepAI monsterResID="803" showTime="122.5" intervalTime="40" num="1" lineID="0"/>
+
+		<creepAI monsterResID="802" showTime="180" intervalTime="60" num="1" lineID="0"/>
+		<creepAI monsterResID="802" showTime="180.5" intervalTime="60" num="1" lineID="0"/>
+		<creepAI monsterResID="802" showTime="181" intervalTime="60" num="1" lineID="0"/>
+		<creepAI monsterResID="803" showTime="181.5" intervalTime="60" num="1" lineID="0"/>
+		<creepAI monsterResID="803" showTime="182" intervalTime="60" num="1" lineID="0"/>
+		<creepAI monsterResID="803" showTime="182.5" intervalTime="60" num="1" lineID="0"/>
+
+	</computerCreepAIConfig>
+	<computerTowerAIConfig> 
+
+		
+		<computerTowerAI towerPointID="5" towerResID="212" buildTime="40" />
+		<computerTowerAI towerPointID="6" towerResID="223" buildTime="100" />
+		<computerTowerAI towerPointID="7" towerResID="235" buildTime="250" />
+
+	</computerTowerAIConfig>
+	<computerCastleBlood value="100"/>
+</computerConfig>

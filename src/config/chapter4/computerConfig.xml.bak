@@ -1,0 +1,30 @@
+<computerConfig version="1.0">
+	<computerBarrackAIConfig> 
+
+		<computerBarrackAI barrackPointID="7" barrackResID="212" buildTime="5" />
+		<computerBarrackAI barrackPointID="8" barrackResID="252" buildTime="10" />
+		<computerBarrackAI barrackPointID="9" barrackResID="223" buildTime="30" />
+		<computerBarrackAI barrackPointID="10" barrackResID="233" buildTime="45" />
+		<computerBarrackAI barrackPointID="11" barrackResID="244" buildTime="150" />
+	
+	</computerBarrackAIConfig>
+	<computerCreepAIConfig>
+
+		<creepAI monsterResID="801" showTime="5" intervalTime="25" num="1" lineID="3"/>
+		<creepAI monsterResID="801" showTime="6" intervalTime="25" num="1" lineID="3"/>
+		<creepAI monsterResID="801" showTime="7" intervalTime="25" num="1" lineID="3"/>
+		<creepAI monsterResID="801" showTime="8" intervalTime="25" num="1" lineID="3"/>
+		<creepAI monsterResID="801" showTime="9" intervalTime="25" num="1" lineID="3"/>
+
+	</computerCreepAIConfig>
+	<computerBossAIConfig>
+		<bossAI monsterResID="903" showTime="120" lineID="2"/>
+	</computerBossAIConfig>
+	<computerTowerAIConfig> 
+
+		<computerTowerAI towerPointID="4" towerResID="212" buildTime="20" />
+		<computerTowerAI towerPointID="5" towerResID="223" buildTime="80" />
+
+	</computerTowerAIConfig>
+	<computerCastleBlood value="80"/>
+</computerConfig>

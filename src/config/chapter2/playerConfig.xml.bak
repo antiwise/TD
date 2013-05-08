@@ -1,0 +1,18 @@
+<playerConfig version="1.0">
+	<playerBarrackLimitConfig>
+		<playerBarrackLimit barrackResID="111"/>
+		<playerBarrackLimit barrackResID="112"/>
+		<playerBarrackLimit barrackResID="113"/>
+		<playerBarrackLimit barrackResID="121"/>
+		<playerBarrackLimit barrackResID="122"/>
+		<playerBarrackLimit barrackResID="131"/>
+		<playerBarrackLimit barrackResID="141"/>
+		<playerBarrackLimit barrackResID="151"/>
+	</playerBarrackLimitConfig>
+	<playerScoreConfig>
+		<player time="80" blood="30" score="3"/>
+		<player time="120" blood="30" score="2"/>
+	</playerScoreConfig>
+	<playerCastleBlood value="40"/>
+	<money value="1000"/>
+</playerConfig>
